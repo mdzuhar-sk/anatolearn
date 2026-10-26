@@ -1,0 +1,10 @@
+{
+  "name": "AnatoLearn — Bilingual Anatomy Learning",
+  "short_name": "AnatoLearn",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f8fc",
+  "theme_color": "#102a43",
+  "description": "Interactive English and Burmese anatomy lessons for students."
+}
